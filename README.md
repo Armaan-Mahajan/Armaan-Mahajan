@@ -2,8 +2,6 @@
 
 Hi there! 👋 I'm **Armaan Mahajan**, a high school student focused on creating innovative solutions and building impactful applications. I specialize in **mobile app development**, **machine learning**, and **web technologies**. I'm always eager to learn new things and take on challenging projects.
 
-<h3> 🛠️ Technologies & Tools </h3>
-<p> Languages & Frameworks**: Python, Dart, Flutter, SQL </p>
 <p> Nowadays, instead of manually writing code, I use tools like Cursor to make my experience as a developer a million times faster</p>
 
 ## 💬 Let's Connect
